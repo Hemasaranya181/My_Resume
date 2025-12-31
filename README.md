@@ -1,7 +1,7 @@
 # Hema Saranya  
  Computer Science Student  
 
- **Resume**: [Click here to view my resume]
+ **Resume**: [ click above pdf resume]
 
 
 ##  Profile
