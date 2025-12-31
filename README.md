@@ -42,12 +42,12 @@ I am a Computer Science student with basic programming knowledge and a keen inte
 - Displays whether the user is eligible or not
 
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 - **Introduction to C Programming – SoloLearn**  
   Learned fundamentals of C including variables, data types, operators, and if–else statements.
 
----
 
-## 🌐 Languages
+
+##  Languages
 - English  
 - Telugu
